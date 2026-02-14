@@ -1,0 +1,1634 @@
+# Copyright (C) 2025 Loginfy
+# This file is distributed under the same license as the Loginfy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Loginfy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-24 10:59+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../Inc/Classes/Feedback.php:86
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:90
+msgid "I found a better plugin"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:91
+msgid "Please share which plugin"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:94
+msgid "I couldn't get the plugin to work"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:98
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:102
+msgid "I have %1$s Pro"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:104
+msgid "Wait! Don't deactivate %1$s. You have to activate both %1$s and %1$s Pro in order for the plugin to work."
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:107
+msgid "I need better design and presets"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:108
+msgid "Let us know your thoughts"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:111
+msgid "Other"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:112
+msgid "Please share the reason"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:133
+msgid "- Feedback"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:137
+msgid "If you have a moment, please share why you are deactivating"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:151
+msgid "Submit &amp; Deactivate"
+msgstr ""
+
+#: ../Inc/Classes/Feedback.php:152
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:62
+msgid "Loginfy News & Updates"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:168, ../Inc/Classes/Pro_Upgrade.php:177, ../Inc/Classes/Pro_Upgrade.php:186
+msgid "(opens in a new window)"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:436
+msgid "Notice:"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:439
+msgid "Offer Ends In"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:443, ../Inc/Classes/Notifications/Notifications.php:178
+msgid "Days"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:448, ../Inc/Classes/Notifications/Notifications.php:183
+msgid "Hours"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:453, ../Inc/Classes/Notifications/Notifications.php:188
+msgid "Minutes"
+msgstr ""
+
+#: ../Inc/Classes/Pro_Upgrade.php:458, ../Inc/Classes/Notifications/Notifications.php:193
+msgid "Seconds"
+msgstr ""
+
+#: ../Inc/Classes/Recommended_Plugins.php:125, ../Inc/Classes/Recommended_Plugins.php:126
+msgid "Recommended"
+msgstr ""
+
+#: ../Inc/Core/Core.php:220, ../Inc/Core/Core.php:221, ../Inc/Core/Inc/loginfy-login-template.php:3, ../Inc/Core/Inc/templates/login-both-half.php:3
+msgid "Login Customizer"
+msgstr ""
+
+#: ../Inc/Core/Core.php:243
+msgid "Loginfy - Login Customizer"
+msgstr ""
+
+#: ../Inc/Core/Core.php:243, ../Inc/Core/Core.php:296, ../Inc/Classes/Notifications/Ask_For_Rating.php:22, ../Inc/Classes/Notifications/Subscribe.php:93, ../Inc/Classes/Notifications/What_We_Collect.php:64, ../Inc/Classes/Notifications/What_We_Collect.php:88
+msgid "Loginfy"
+msgstr ""
+
+#: ../Inc/Core/Core.php:244, ../Inc/Core/Core.php:244
+msgid "Customizer"
+msgstr ""
+
+#: ../Inc/Core/Core.php:262
+msgid "Loginfy - Login Page Customizer"
+msgstr ""
+
+#: ../Inc/Core/Core.php:263
+msgid "Loginfy Customizer - Design your boring WordPress Login page"
+msgstr ""
+
+#: ../Inc/Core/Core.php:264
+msgid "Start Customizing!"
+msgstr ""
+
+#: ../Inc/Core/Core.php:274
+msgid "Free plugin support is available on the %1$s plugin support forums%2$s."
+msgstr ""
+
+#: ../Inc/Core/Core.php:297
+msgid "Customize Your WordPress Login Page with Loginfy :)"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Ask_For_Rating.php:23
+msgid "A positive rating will keep us motivated to continue supporting and improving this free plugin, and will help spread its popularity.<br> Your help is greatly appreciated!"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Ask_For_Rating.php:44, ../Inc/Classes/Notifications/Subscribe.php:141
+msgid "Rate Now"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Ask_For_Rating.php:47, ../Inc/Classes/Notifications/Subscribe.php:144
+msgid "Later"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Ask_For_Rating.php:50, ../Inc/Classes/Notifications/Subscribe.php:147
+msgid "I already did"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Notifications.php:174
+msgid "Deal Ends In"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Subscribe.php:107, ../Inc/Core/Inc/add-sections.php:23, ../Inc/Core/Inc/Settings/Logo_Section.php:226
+msgid "Logo"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/Subscribe.php:117
+msgid "Get Discount"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/What_We_Collect.php:74
+msgid "what we collect"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/What_We_Collect.php:87
+msgid "Want to help make <strong>%1$s</strong> even more awesome? Allow %1$s to collect non-sensitive diagnostic data and usage information."
+msgstr ""
+
+#: ../Inc/Classes/Notifications/What_We_Collect.php:94
+msgid "Server environment details (php, mysql, server, WordPress versions), Number of users in your site, Site language, Number of active and inactive plugins, Local or Production Site, IP Address, Site name and url, Your name and email address etc. No sensitive data is tracked. Learn more about our <a href=\"%1$s\" target=\"_blank\">Privacy Policy</a>, how we handle and collects your data."
+msgstr ""
+
+#: ../Inc/Classes/Notifications/What_We_Collect.php:120
+msgid "Allow"
+msgstr ""
+
+#: ../Inc/Classes/Notifications/What_We_Collect.php:123
+msgid "No Thanks"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:15, ../Inc/Core/Inc/Settings/Templates.php:60, ../Inc/Core/Inc/Settings/Templates.php:65
+msgid "Templates"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:31, ../Inc/Core/Inc/Settings/Background_Section.php:106, ../Inc/Core/Inc/Settings/Background_Section.php:93, ../Inc/Core/Inc/Settings/Background_Section.php:249, ../Inc/Core/Inc/Settings/Button_Section.php:71, ../Inc/Core/Inc/Settings/Button_Section.php:243, ../Inc/Core/Inc/Settings/Form_Section.php:173, ../Inc/Core/Inc/Settings/Form_Section.php:190
+msgid "Background"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:39, ../Inc/Core/Inc/Settings/Layout_Section.php:53, ../Inc/Core/Inc/Settings/Layout_Section.php:178
+msgid "Layout"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:47, ../Inc/Core/Inc/Settings/Form_Section.php:323
+msgid "Login Form"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:55
+msgid "Form Fields"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:63, ../Inc/Core/Inc/Settings/Button_Section.php:611, ../Inc/Core/Inc/Settings/Button_Section.php:647
+msgid "Button"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:71, ../Inc/Core/Inc/Settings/Others_Section.php:154
+msgid "Others"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:79, ../Inc/Core/Inc/Settings/Google_Fonts.php:83
+msgid "Google Fonts"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:87, ../Inc/Core/Inc/Settings/Error_Messages.php:141
+msgid "Error Messages"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:95, ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:70
+msgid "Custom CSS & JS"
+msgstr ""
+
+#: ../Inc/Core/Inc/add-sections.php:103, ../Inc/Core/Inc/Settings/Credits_Section.php:97
+msgid "Credits"
+msgstr ""
+
+#: ../Inc/Core/Inc/branding.php:10
+msgid "Powered by"
+msgstr ""
+
+#: ../Inc/Core/Inc/branding.php:31
+msgid "Get Loginfy today"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:140, ../Inc/Core/Inc/templates/login-both-half.php:158
+msgid "Powered by WordPress"
+msgstr ""
+
+#. translators: %s: Site title.
+#: ../Inc/Core/Inc/loginfy-login-template.php:290
+msgid "&larr; <span id=\"loginfy-back-to-site\">Back to</span> %s"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:468, ../Inc/Core/Inc/loginfy-login-template.php:490, ../Inc/Core/Inc/templates/login-both-half.php:417, ../Inc/Core/Inc/templates/login-both-half.php:440
+msgid "<strong>ERROR</strong>: There is no account with that username or email address."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:464, ../Inc/Core/Inc/templates/login-both-half.php:413
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:513, ../Inc/Core/Inc/templates/login-both-half.php:463
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#. translators: %s: Site name.
+#: ../Inc/Core/Inc/loginfy-login-template.php:515, ../Inc/Core/Inc/templates/login-both-half.php:465
+msgid "Site Name: %s"
+msgstr ""
+
+#. translators: %s: User login.
+#: ../Inc/Core/Inc/loginfy-login-template.php:517, ../Inc/Core/Inc/templates/login-both-half.php:467
+msgid "Username: %s"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:518, ../Inc/Core/Inc/templates/login-both-half.php:468
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:519, ../Inc/Core/Inc/templates/login-both-half.php:469
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#. translators: Password reset notification email subject. %s: Site title.
+#: ../Inc/Core/Inc/loginfy-login-template.php:523, ../Inc/Core/Inc/templates/login-both-half.php:473
+msgid "[%s] Password Reset"
+msgstr ""
+
+#. translators: %s: Documentation URL.
+#: ../Inc/Core/Inc/loginfy-login-template.php:555, ../Inc/Core/Inc/templates/login-both-half.php:507
+msgid "<strong>ERROR</strong>: The email could not be sent. Your site may not be correctly configured to send emails. <a href=\"%s\">Get support for resetting your password</a>."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:718, ../Inc/Core/Inc/templates/login-both-half.php:674
+msgid "Confirm your administration email"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:747
+msgid "Administration email verification"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:750
+msgid "Please verify that the <strong>administration email</strong> for this website is still correct."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:759
+msgid "Why is this important?"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:760, ../Inc/Core/Inc/templates/login-both-half.php:720
+msgid "(opens in a new tab)"
+msgstr ""
+
+#. translators: %s: Admin email address.
+#: ../Inc/Core/Inc/loginfy-login-template.php:770, ../Inc/Core/Inc/templates/login-both-half.php:730
+msgid "Current administration email: %s"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:777, ../Inc/Core/Inc/templates/login-both-half.php:737
+msgid "This email may be different from your personal email address."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:788, ../Inc/Core/Inc/templates/login-both-half.php:748
+msgid "Update"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:789, ../Inc/Core/Inc/templates/login-both-half.php:749
+msgid "The email is correct"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:805, ../Inc/Core/Inc/templates/login-both-half.php:765
+msgid "Remind me later"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:901, ../Inc/Core/Inc/templates/login-both-half.php:861
+msgid "Your password reset link has expired. Please request a new link below."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:899, ../Inc/Core/Inc/templates/login-both-half.php:859
+msgid "Your password reset link appears to be invalid. Please request a new link below."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:926, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:98, ../Inc/Core/Inc/templates/login-both-half.php:886
+msgid "Lost Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:926, ../Inc/Core/Inc/templates/login-both-half.php:886
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:938, ../Inc/Core/Inc/loginfy-login-template.php:1283, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:21, ../Inc/Core/Inc/templates/login-both-half.php:898, ../Inc/Core/Inc/templates/login-both-half.php:1222
+msgid "Username or Email Address"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:951, ../Inc/Core/Inc/templates/login-both-half.php:913
+msgid "Get New Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1016, ../Inc/Core/Inc/templates/login-both-half.php:977
+msgid "The passwords do not match."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1032, ../Inc/Core/Inc/templates/login-both-half.php:993
+msgid "Password Reset"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1032, ../Inc/Core/Inc/templates/login-both-half.php:993
+msgid "Your password has been reset."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1032, ../Inc/Core/Inc/loginfy-login-template.php:1102, ../Inc/Core/Inc/loginfy-login-template.php:1209, ../Inc/Core/Inc/templates/login-both-half.php:918, ../Inc/Core/Inc/templates/login-both-half.php:993, ../Inc/Core/Inc/templates/login-both-half.php:1055, ../Inc/Core/Inc/templates/login-both-half.php:1157
+msgid "Log in"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1040, ../Inc/Core/Inc/templates/login-both-half.php:1001, ../Inc/Core/Inc/templates/login-both-half.php:1050
+msgid "Reset Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1040, ../Inc/Core/Inc/templates/login-both-half.php:1001
+msgid "Enter your new password below."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1049, ../Inc/Core/Inc/templates/login-both-half.php:1009
+msgid "New password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1055, ../Inc/Core/Inc/templates/login-both-half.php:1015
+msgid "Hide password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1059, ../Inc/Core/Inc/templates/login-both-half.php:1018
+msgid "Strength indicator"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1066, ../Inc/Core/Inc/templates/login-both-half.php:1022
+msgid "Confirm use of weak password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1106, ../Inc/Core/Inc/loginfy-login-template.php:1203, ../Inc/Core/Inc/loginfy-login-template.php:1351, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:29, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:88, ../Inc/Core/Inc/templates/login-both-half.php:922, ../Inc/Core/Inc/templates/login-both-half.php:1059, ../Inc/Core/Inc/templates/login-both-half.php:1152, ../Inc/Core/Inc/templates/login-both-half.php:1281
+msgid "Register"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1172, ../Inc/Core/Inc/templates/login-both-half.php:1124
+msgid "Registration Form"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1172, ../Inc/Core/Inc/templates/login-both-half.php:1124
+msgid "Register For This Site"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1178, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:61, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:122, ../Inc/Core/Inc/templates/login-both-half.php:1129
+msgid "Username"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1183, ../Inc/Core/Inc/Settings/Error_Messages.php:157, ../Inc/Core/Inc/templates/login-both-half.php:1133
+msgid "Email"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1198, ../Inc/Core/Inc/templates/login-both-half.php:1147
+msgid "Registration confirmation will be emailed to you."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1215, ../Inc/Core/Inc/loginfy-login-template.php:1359, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:27, ../Inc/Core/Inc/templates/login-both-half.php:1159, ../Inc/Core/Inc/templates/login-both-half.php:1290
+msgid "Lost your password?"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1226, ../Inc/Core/Inc/templates/login-both-half.php:1168
+msgid "Missing request ID."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1230, ../Inc/Core/Inc/templates/login-both-half.php:1172
+msgid "Missing confirm key."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1258, ../Inc/Core/Inc/templates/login-both-half.php:1200
+msgid "User action confirmed."
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1271, ../Inc/Core/Inc/loginfy-login-template.php:1318, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:26, ../Inc/Core/Inc/templates/login-both-half.php:1213, ../Inc/Core/Inc/templates/login-both-half.php:1248
+msgid "Log In"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1292, ../Inc/Core/Inc/Settings/Error_Messages.php:153, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:23, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:24, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:69, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:128, ../Inc/Core/Inc/templates/login-both-half.php:1228
+msgid "Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1297, ../Inc/Core/Inc/templates/login-both-half.php:1231
+msgid "Show password"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1313, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:25, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:76, ../Inc/Core/Inc/templates/login-both-half.php:1246
+msgid "Remember Me"
+msgstr ""
+
+#: ../Inc/Core/Inc/loginfy-login-template.php:1366
+msgid "Privacy Policy"
+msgstr ""
+
+#. translators: %s: site title
+#. translators: %s: Site title.
+#: ../Inc/Core/Inc/loginfy-login-template.php:1374, ../Inc/Core/Inc/templates/login-both-half.php:304
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:494
+msgid "%1$sError:%2$s Invalid Username."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:496
+msgid "%1$sError:%2$s The username field is empty."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:498
+msgid "%1$sError:%2$s This username is already registered. Please choose another one."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:502
+msgid "%1$sError:%2$s Invalid Password."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:504
+msgid "%1$sError:%2$s The password field is empty."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:508
+msgid "%1$sError:%2$s The email address isn't correct.."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:510
+msgid "%1$sError:%2$s Please type your email address."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:512
+msgid "%1$sError:%2$s This email is already registered, please choose another one."
+msgstr ""
+
+#: ../Inc/Core/Inc/Output_Customization.php:514
+msgid "%1$sError:%2$s Invalid username or email."
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:64
+msgid "Color/Image"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:65
+msgid "Video"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:66
+msgid "Slideshow"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:75, ../Inc/Core/Inc/Settings/Background_Section.php:184, ../Inc/Core/Inc/Settings/Layout_Section.php:104
+msgid "Color "
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:76, ../Inc/Core/Inc/Settings/Background_Section.php:185, ../Inc/Core/Inc/Settings/Form_Section.php:181, ../Inc/Core/Inc/Settings/Layout_Section.php:105
+msgid "Gradient"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:118
+msgid "Self Hosted "
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:119
+msgid "Youtube"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:128
+msgid "Upload Video"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:137
+msgid "Youtube URL"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:145
+msgid "Loop Video?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:155
+msgid "Poster Image"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:163
+msgid "Slideshow Images"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:164
+msgid "Add Slide"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:165
+msgid "Edit Slides"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:166, ../Libs/Admin/fields/media/media.php:26, ../Libs/Admin/fields/upload/upload.php:25
+msgid "Remove"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:182, ../Libs/Admin/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Background_Section.php:227
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:78, ../Inc/Core/Inc/Settings/Button_Section.php:250, ../Inc/Core/Inc/Settings/Credits_Section.php:51
+msgid "Text Color"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:95, ../Inc/Core/Inc/Settings/Button_Section.php:266
+msgid "Text Shadow"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:170, ../Inc/Core/Inc/Settings/Button_Section.php:163, ../Inc/Core/Inc/Settings/Button_Section.php:342, ../Inc/Core/Inc/Settings/Button_Section.php:335, ../Inc/Core/Inc/Settings/Button_Section.php:479, ../Inc/Core/Inc/Settings/Button_Section.php:472, ../Inc/Core/Inc/Settings/Form_Section.php:73, ../Inc/Core/Inc/Settings/Form_Section.php:66, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:304, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:297, ../Libs/Admin/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:187, ../Inc/Core/Inc/Settings/Button_Section.php:181, ../Inc/Core/Inc/Settings/Button_Section.php:359, ../Inc/Core/Inc/Settings/Button_Section.php:353, ../Inc/Core/Inc/Settings/Button_Section.php:521, ../Inc/Core/Inc/Settings/Form_Section.php:121, ../Inc/Core/Inc/Settings/Form_Section.php:115, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:352, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:346
+msgid "Blur"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:204, ../Inc/Core/Inc/Settings/Button_Section.php:198, ../Inc/Core/Inc/Settings/Button_Section.php:376, ../Inc/Core/Inc/Settings/Button_Section.php:370, ../Inc/Core/Inc/Settings/Button_Section.php:495, ../Inc/Core/Inc/Settings/Button_Section.php:489, ../Inc/Core/Inc/Settings/Form_Section.php:89, ../Inc/Core/Inc/Settings/Form_Section.php:83, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:320, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:314
+msgid "Horizontal"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:221, ../Inc/Core/Inc/Settings/Button_Section.php:215, ../Inc/Core/Inc/Settings/Button_Section.php:393, ../Inc/Core/Inc/Settings/Button_Section.php:387, ../Inc/Core/Inc/Settings/Button_Section.php:511, ../Inc/Core/Inc/Settings/Button_Section.php:505, ../Inc/Core/Inc/Settings/Button_Section.php:527, ../Inc/Core/Inc/Settings/Form_Section.php:105, ../Inc/Core/Inc/Settings/Form_Section.php:99, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:336, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:330
+msgid "Vertical"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:415, ../Inc/Core/Inc/Settings/Form_Section.php:245, ../Inc/Core/Inc/Settings/Form_Section.php:238, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:266, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:260
+msgid "Margin"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:421, ../Inc/Core/Inc/Settings/Form_Section.php:261, ../Inc/Core/Inc/Settings/Form_Section.php:254, ../Inc/Core/Inc/Settings/Logo_Section.php:203, ../Inc/Core/Inc/Settings/Logo_Section.php:197
+msgid "Padding"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:426, ../Inc/Core/Inc/Settings/Button_Section.php:432, ../Inc/Core/Inc/Settings/Form_Section.php:269, ../Inc/Core/Inc/Settings/Form_Section.php:276, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:224, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:218
+msgid "Border"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:446, ../Inc/Core/Inc/Settings/Button_Section.php:440, ../Inc/Core/Inc/Settings/Form_Section.php:289, ../Inc/Core/Inc/Settings/Form_Section.php:284, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:240, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:234
+msgid "Border Radius"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:454, ../Inc/Core/Inc/Settings/Form_Section.php:297, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:290
+msgid "Box Shadow"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:543, ../Inc/Core/Inc/Settings/Button_Section.php:537, ../Inc/Core/Inc/Settings/Form_Section.php:137, ../Inc/Core/Inc/Settings/Form_Section.php:131, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:368, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:362
+msgid "Spread"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:563, ../Inc/Core/Inc/Settings/Button_Section.php:553, ../Inc/Core/Inc/Settings/Credits_Section.php:64, ../Inc/Core/Inc/Settings/Form_Section.php:157, ../Inc/Core/Inc/Settings/Form_Section.php:147, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:388, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:378
+msgid "Position"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:555, ../Inc/Core/Inc/Settings/Form_Section.php:149
+msgid "Outline"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:556, ../Inc/Core/Inc/Settings/Form_Section.php:150, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:381, ../Libs/Admin/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:581
+msgid "General Settings"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:594, ../Inc/Core/Inc/Settings/Button_Section.php:588
+msgid "Button Width & Height"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:604, ../Libs/Admin/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:615, ../Libs/Admin/fields/background/background.php:270, ../Libs/Admin/fields/link_color/link_color.php:36, ../Libs/Admin/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:620, ../Libs/Admin/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Button_Section.php:625
+msgid "Advanced"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Credits_Section.php:32
+msgid "Show Some Love"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Credits_Section.php:37
+msgid "Show some love and help others to learn about this free plugin by adding a Powered by Loginfy Logo to your login page"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Credits_Section.php:42
+msgid "Enable Credits?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Credits_Section.php:43, ../Inc/Core/Inc/Settings/Logo_Section.php:68, ../Inc/Core/Inc/Settings/Others_Section.php:48, ../Inc/Core/Inc/Settings/Others_Section.php:59, ../Inc/Core/Inc/Settings/Others_Section.php:70, ../Inc/Core/Inc/Settings/Others_Section.php:81, ../Inc/Core/Inc/Settings/Others_Section.php:102, ../Inc/Core/Inc/Settings/Others_Section.php:123
+msgid "Yes"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Credits_Section.php:44, ../Inc/Core/Inc/Settings/Logo_Section.php:69, ../Inc/Core/Inc/Settings/Others_Section.php:49, ../Inc/Core/Inc/Settings/Others_Section.php:60, ../Inc/Core/Inc/Settings/Others_Section.php:71, ../Inc/Core/Inc/Settings/Others_Section.php:82, ../Inc/Core/Inc/Settings/Others_Section.php:103, ../Inc/Core/Inc/Settings/Others_Section.php:124
+msgid "No"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:30
+msgid "Custom CSS doesn't work on live. Save Settings and Preview %1$s login%2$s page or hit refresh after save Customer."
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:31
+msgid "Don't place &lt;style&gt;&lt;/style&gt; tag inside editor."
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:43
+msgid "JS Editor"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:44
+msgid "Custom JS doesn't work on live. Save Settings and Preview %1$s login%2$s page or hit refresh after save Customer."
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Custom_CSS_JS.php:45
+msgid "Don't place &lt;script&gt;&lt;/script&gt; tag inside editor."
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:46
+msgid "Incorrect Username"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:52
+msgid "Empty Username"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:58
+msgid "Exists Username"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:75
+msgid "Incorrect Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:81
+msgid "Empty Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:87
+msgid "Forget Password"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:104
+msgid "Invalid Email"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:110
+msgid "Empty Email"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Error_Messages.php:116
+msgid "Exists Email"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Form_Section.php:180
+msgid "Color & Image"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Form_Section.php:216, ../Inc/Core/Inc/Settings/Form_Section.php:199
+msgid "Background Option with Gradient Color"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Form_Section.php:225
+msgid "Form Width & Height"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Form_Section.php:231
+msgid "Width & Height"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Google_Fonts.php:41
+msgid "Typography"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Layout_Section.php:64
+msgid "Column Alignment"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Layout_Section.php:78
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Layout_Section.php:90
+msgid "Vertical Alignment"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Layout_Section.php:102
+msgid "Side Background"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Layout_Section.php:154, ../Inc/Core/Inc/Settings/Layout_Section.php:144
+msgid "Skew"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:22
+msgid "Username/Email"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:28
+msgid "Back to "
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:84
+msgid "Login"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:104
+msgid "Back to site"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:144
+msgid "Label Font Size"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:155
+msgid "Field Height"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:166
+msgid "Field Font Size"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:189, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:178
+msgid "Field Background"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:198
+msgid "Label Color"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:205
+msgid "Input Color"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:282, ../Inc/Core/Inc/Settings/Login_Form_Fields.php:276
+msgid "Field Padding"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:380
+msgid "Outside"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:424
+msgid "Label"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:429
+msgid "Placeholder"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:434
+msgid "Style"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Login_Form_Fields.php:439
+msgid "Advance"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:66
+msgid "Display Logo?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:76
+msgid "Logo Type"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:77
+msgid "Select the way you want to display Logo"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:79
+msgid "Text"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:80
+msgid "Image"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:81
+msgid "Image & Text"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:82, ../Libs/Admin/fields/border/border.php:59, ../Libs/Admin/fields/typography/typography.php:199, ../Libs/Admin/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:91
+msgid "Logo Image"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:103
+msgid "Text Logo"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:105
+msgid "Enter Logo Text here"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:124
+msgid "Login Page Title"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:125
+msgid "Enter Login Page Title here"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:130
+msgid "Logo Style"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Logo_Section.php:184, ../Inc/Core/Inc/Settings/Logo_Section.php:161
+msgid "Title Typography"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:36
+msgid "Hide Remember Me?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:37
+msgid "Show"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:38
+msgid "Hide"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:46
+msgid "Disable Login shake?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:57
+msgid "Disable Register?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:68
+msgid "Disable Lost Password?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:89, ../Inc/Core/Inc/Settings/Others_Section.php:79
+msgid "Disable \"Back to Website\" ?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:110, ../Inc/Core/Inc/Settings/Others_Section.php:100
+msgid "Disable \"Privary Policy\" ?"
+msgstr ""
+
+#: ../Inc/Core/Inc/Settings/Others_Section.php:131, ../Inc/Core/Inc/Settings/Others_Section.php:121
+msgid "Disable \"Language Switcher\" ?"
+msgstr ""
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site name.
+#: ../Inc/Core/Inc/templates/login-both-half.php:81
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr ""
+
+#. translators: %s: Login screen title.
+#: ../Inc/Core/Inc/templates/login-both-half.php:85
+msgid "Recovery Mode &#8212; %s"
+msgstr ""
+
+#: ../Inc/Core/Inc/templates/login-both-half.php:155
+msgid "Usage of the title attribute on the login logo is not recommended for accessibility reasons. Use the link text instead."
+msgstr ""
+
+#: ../Inc/Core/Inc/templates/login-both-half.php:922, ../Inc/Core/Inc/templates/login-both-half.php:1059
+msgid "<a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../Inc/Core/Inc/templates/login-both-half.php:1027
+msgid "Confirm new password"
+msgstr ""
+
+#: ../Libs/Helper.php:153
+msgid "Get Premium"
+msgstr ""
+
+#: ../Libs/Helper.php:274
+msgid "<strong>Unlock this feature</strong> ."
+msgstr ""
+
+#: ../Libs/Helper.php:281
+msgid "<div class=\"loginfy-pro-notice\"> %1$s <p> %2$s <a href=\"%3$s\" target=\"_blank\">%4$s</a>  </p></div>"
+msgstr ""
+
+#: ../Libs/Helper.php:285
+msgid "Upgrade to Pro Now!"
+msgstr ""
+
+#: ../Libs/Recommended.php:101
+msgid "Recommended Plugins"
+msgstr ""
+
+#: ../Libs/Recommended.php:125, ../Libs/Recommended.php:128
+msgid "Search Plugins"
+msgstr ""
+
+#: ../Libs/Recommended.php:127
+msgid "Search plugins..."
+msgstr ""
+
+#: ../Libs/Recommended.php:182
+msgid "Status:"
+msgstr ""
+
+#: ../Libs/Recommended.php:218, ../Libs/Recommended.php:212, ../Libs/Recommended.php:198
+msgid "Inactive"
+msgstr ""
+
+#: ../Libs/Recommended.php:206, ../Libs/Recommended.php:192, ../Libs/Admin/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: ../Libs/Recommended.php:186
+msgid "No Installed"
+msgstr ""
+
+#: ../Libs/Recommended.php:264
+msgid "Installed"
+msgstr ""
+
+#: ../Libs/Recommended.php:257
+msgid "Activate"
+msgstr ""
+
+#: ../Libs/Recommended.php:250
+msgid "Activated"
+msgstr ""
+
+#: ../Libs/Recommended.php:241
+msgid "Update Now"
+msgstr ""
+
+#: ../Libs/Recommended.php:233
+msgid "Install Now"
+msgstr ""
+
+#: ../Libs/Recommended.php:290, ../Libs/Recommended.php:348
+msgid "Nonce is invalid"
+msgstr ""
+
+#: ../Libs/Recommended.php:294, ../Libs/Recommended.php:352
+msgid "Invalid access"
+msgstr ""
+
+#: ../Libs/Recommended.php:301, ../Libs/Recommended.php:359
+msgid "Invalid plugin"
+msgstr ""
+
+#: ../Libs/Recommended.php:316
+msgid "Activate success"
+msgstr ""
+
+#: ../Libs/Recommended.php:323, ../Libs/Recommended.php:456
+msgid "Error."
+msgstr ""
+
+#: ../Libs/Recommended.php:437
+msgid "Update success"
+msgstr ""
+
+#: ../Libs/Recommended.php:412
+msgid "Install success"
+msgstr ""
+
+#: ../Libs/Recommended.php:447
+msgid "Error exception."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:169
+msgid "Error while saving the changes."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:229
+msgid "Settings successfully imported."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:257, ../Libs/Admin/classes/admin-options.class.php:241
+msgid "Default settings restored."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:328
+msgid "Settings saved."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:509
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:511
+msgid "show all settings"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:513, ../Libs/Admin/fields/icon/icon.php:57, ../Libs/Admin/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:516, ../Libs/Admin/classes/admin-options.class.php:639
+msgid "Save"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:516, ../Libs/Admin/classes/admin-options.class.php:639
+msgid "Saving..."
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:517, ../Libs/Admin/classes/admin-options.class.php:640
+msgid "Reset Section"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:517, ../Libs/Admin/classes/admin-options.class.php:640
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:518, ../Libs/Admin/classes/admin-options.class.php:641
+msgid "Reset All"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:518, ../Libs/Admin/classes/admin-options.class.php:641, ../Libs/Admin/classes/comment-options.class.php:201, ../Libs/Admin/classes/metabox-options.class.php:278, ../Libs/Admin/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:518, ../Libs/Admin/classes/admin-options.class.php:641
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: ../Libs/Admin/classes/admin-options.class.php:616, ../Libs/Admin/classes/comment-options.class.php:184, ../Libs/Admin/classes/metabox-options.class.php:261, ../Libs/Admin/functions/actions.php:41, ../Libs/Admin/fields/button_set/button_set.php:56, ../Libs/Admin/fields/checkbox/checkbox.php:82, ../Libs/Admin/fields/radio/radio.php:75, ../Libs/Admin/fields/select/select.php:113
+msgid "No data available."
+msgstr ""
+
+#: ../Libs/Admin/classes/comment-options.class.php:202, ../Libs/Admin/classes/metabox-options.class.php:279
+msgid "update post"
+msgstr ""
+
+#: ../Libs/Admin/classes/comment-options.class.php:202, ../Libs/Admin/classes/metabox-options.class.php:279
+msgid "Cancel"
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:606
+msgid "Are you sure?"
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:607
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:608
+msgid "Searching..."
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:609
+msgid "No results found."
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:710
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: ../Libs/Admin/classes/setup.class.php:782, ../Libs/Admin/classes/setup.class.php:778
+msgid "Field not found!"
+msgstr ""
+
+#: ../Libs/Admin/classes/shortcode-options.class.php:247, ../Libs/Admin/functions/actions.php:16, ../Libs/Admin/functions/actions.php:68, ../Libs/Admin/functions/actions.php:106, ../Libs/Admin/functions/actions.php:141, ../Libs/Admin/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: ../Libs/Admin/classes/shortcode-options.class.php:210, ../Libs/Admin/fields/group/group.php:23
+msgid "Add New"
+msgstr ""
+
+#: ../Libs/Admin/functions/actions.php:72, ../Libs/Admin/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: ../Libs/Admin/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: ../Libs/Admin/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: ../Libs/Admin/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: ../Libs/Admin/functions/validate.php:14, ../Libs/Admin/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../Libs/Admin/functions/validate.php:32, ../Libs/Admin/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ../Libs/Admin/functions/validate.php:50, ../Libs/Admin/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: ../Libs/Admin/functions/validate.php:68, ../Libs/Admin/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:36, ../Libs/Admin/fields/media/media.php:59
+msgid "Not selected"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:72, ../Libs/Admin/fields/date/date.php:31, ../Libs/Admin/fields/datetime/datetime.php:36
+msgid "From"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:90, ../Libs/Admin/fields/date/date.php:32, ../Libs/Admin/fields/datetime/datetime.php:37
+msgid "To"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:236, ../Libs/Admin/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:237, ../Libs/Admin/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:238, ../Libs/Admin/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: ../Libs/Admin/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: ../Libs/Admin/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: ../Libs/Admin/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:25, ../Libs/Admin/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:26, ../Libs/Admin/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:27, ../Libs/Admin/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:28, ../Libs/Admin/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:29, ../Libs/Admin/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:51, ../Libs/Admin/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:52, ../Libs/Admin/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:53, ../Libs/Admin/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:54, ../Libs/Admin/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: ../Libs/Admin/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: ../Libs/Admin/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: ../Libs/Admin/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: ../Libs/Admin/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: ../Libs/Admin/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../Libs/Admin/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: ../Libs/Admin/fields/group/group.php:52, ../Libs/Admin/fields/group/group.php:107, ../Libs/Admin/fields/repeater/repeater.php:48, ../Libs/Admin/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: ../Libs/Admin/fields/group/group.php:141, ../Libs/Admin/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: ../Libs/Admin/fields/group/group.php:142, ../Libs/Admin/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: ../Libs/Admin/fields/group/group.php:41, ../Libs/Admin/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: ../Libs/Admin/fields/icon/icon.php:20, ../Libs/Admin/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: ../Libs/Admin/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: ../Libs/Admin/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: ../Libs/Admin/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: ../Libs/Admin/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: ../Libs/Admin/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: ../Libs/Admin/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: ../Libs/Admin/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: ../Libs/Admin/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: ../Libs/Admin/fields/media/media.php:25, ../Libs/Admin/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: ../Libs/Admin/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: ../Libs/Admin/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: ../Libs/Admin/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: ../Libs/Admin/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:119, ../Libs/Admin/fields/typography/typography.php:132, ../Libs/Admin/fields/typography/typography.php:145, ../Libs/Admin/fields/typography/typography.php:160, ../Libs/Admin/fields/typography/typography.php:176, ../Libs/Admin/fields/typography/typography.php:189, ../Libs/Admin/fields/typography/typography.php:203, ../Libs/Admin/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:144, ../Libs/Admin/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:171
+msgid "Left"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:172
+msgid "Center"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:173
+msgid "Right"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: ../Libs/Admin/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""

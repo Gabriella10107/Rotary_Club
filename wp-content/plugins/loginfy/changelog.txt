@@ -1,0 +1,49 @@
+== Changelog ==
+= 1.0.4.0 (24-09-2025) =
+* Security Patch: Updated SDK to provide better security
+* UI Improvement: Ui Updated for better UX.
+
+= 1.0.3.9 (12-08-2025) =
+* Fixed: Wrong URL on "WP Adminify" submenu "Login Customizer" on Admin Bar Editor issue fixed.
+
+= 1.0.3.8 (24-05-2025) =
+* Updated: Freemius SDK Updated and moved on vendor as per WordPress.org requirements
+* Updated: Background Image Size Compressed and webp format
+
+
+= 1.0.3.7 (03-03-2025) =
+* Fixed: Loginfy Customizer panel other section settings hide lost password link while hiding back to wordpress button.
+* Fixed: Loginfy Customizer panel showing Privacy Policy link twice.
+* Fixed: Loginfy Customizer panel other section settings missing condition for Language Switcher.
+* Update: Freemius SDK Updated to latest version.
+* Update: Applied security patches.
+
+= 1.0.3.6 (26-01-2025) =
+* Added: After "Opt In" error page redirected "admin.php?page=loginfy" issue fixed
+* Added: Disable "Privacy Policy" Link option added on "Others"
+* Added: Disable "Language Switcher" Option added on "Others"
+* Fixed: Initial broken Customizer Page loading issue fixed
+* Removed: Templates, Sections, Button styles button on 'back to website' removed
+
+= 1.0.3.5 (30-12-2024) =
+* Fixed: Broken Customizer initial load issue fixed
+
+= 1.0.3.4 (24-08-2024) =
+* Fixed: Customizer Styles not working issue fixed
+* Updated: WP Login Page not showing issue fixed
+* Updated: WP Login Page error issue fixed
+
+= 1.0.3.3 (24-08-2024) =
+Update: Menu Link issue fixed
+
+= 1.0.3.2 (24-08-2024) =
+Update: Compatibility with WP Adminify
+
+= 1.0.3.1 (04-04-2024) =
+Update: Plugin Name Typo update
+
+= 1.0.3 (04-04-2024) =
+* Update: Completely re-coded version uploaded
+
+= 1.0.0 =
+* Initial release
